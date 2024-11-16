@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Rishabh Patel, a software dev pursuing a Master’s degree in Artificial Intelligence and Robotics with Advanced Research at the University of Hertfordshire. I have experience in web development, machine learning, and computer vision and am proficient in Python, C and  C++. I am passionate about creating innovative and efficient solutions using cutting-edge technologies. In my free time, I enjoy content creation, video editing, graphic designing & photo editing, 3D art, music, and PC building. Check out my repositories to see some of my projects! 😊
+Hi, I’m Rishabh Patel, a Graduate Doftware Dev with a Master’s in Artificial Intelligence and Robotics with Advanced Research at the University of Hertfordshire. I have experience in machine learning, web development, computer vision and customer service. I'm proficient in Python, C and  C++ and I'm passionate about creating innovative and efficient solutions using cutting-edge technologies. In my free time, I enjoy content creation, video editing, graphic designing & photo editing, 3D art, music, and PC building. Check out my repositories to see some of my projects! 😊
 
 
 ## 🌐 Socials:
