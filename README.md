@@ -50,7 +50,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/matlab"><img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/></a>
 </p>
 
-Check out my resume - **[rish.click](https://rish.click)** <a href="https://rish.click" target="_blank">rish.click</a>
+Check out my resume - **[rish.click](https://rish.click)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
