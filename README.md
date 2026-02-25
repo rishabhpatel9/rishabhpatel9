@@ -14,12 +14,12 @@
 <a href="https://wordpress.org/"><img src="https://cdn.simpleicons.org/wordpress" alt="wordpress" width="40" height="40"/></a>
 <a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit" alt="streamlit" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/></a>
-<a href="https://render.com/"><img src="https://cdn.simpleicons.org/render" alt="render" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://render.com/"><img src="https://cdn.simpleicons.org/render" alt="render" width="40" height="40"/></a>
+<a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
 <a href="https://bitbucket.org/"><img src="https://skillicons.dev/icons?i=bitbucket" alt="bitbucket" width="40" height="40"/></a>
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-<a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
 </p>
@@ -36,14 +36,14 @@
 <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/></a>
 <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://lmstudio.ai/"><img src="assets/lmstudio.png" alt="lmstudio" width="40" height="40"/></a>
 <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/></a>
 <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/></a>
-<a href="https://lmstudio.ai/"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lmstudio.svg" alt="lmstudio" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">Design & Other Tools</h4>
 <p align="left">
-<a href="https://www.blackmagicdesign.com/products/davinciresolve/"><img src="https://cdn.simpleicons.org/davinciresolve" alt="davinciresolve" width="40" height="40"/></a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve/"><img src="assets/davinci-resolve.png" alt="davinciresolve" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=premiere" alt="premiere" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/></a>
