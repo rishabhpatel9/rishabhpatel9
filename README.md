@@ -13,6 +13,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
 <a href="https://wordpress.org/"><img src="https://cdn.simpleicons.org/wordpress" alt="wordpress" width="40" height="40"/></a>
 <a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit" alt="streamlit" width="40" height="40"/></a>
+<a href="https://www.gradio.app/"><img src="https://cdn.simpleicons.org/gradio" alt="gradio" width="40" height="40"/></a>
+<a href="https://docs.pydantic.dev/latest/"><img src="https://cdn.simpleicons.org/pydantic" alt="pydantic" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/></a>
 <a href="https://render.com/"><img src="https://cdn.simpleicons.org/render" alt="render" width="40" height="40"/></a>
 <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,6 +29,8 @@
 <h4 align="left">AI & ML</h4>
 <p align="left">
 <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="40" height="40"/></a>
+<a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph" alt="langgraph" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a>
